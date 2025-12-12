@@ -1,0 +1,47 @@
+# ===================== CLion/IDEA 相关 =====================
+# CLion 配置目录（核心忽略）
+.idea/
+# CLion 自动生成的运行配置
+*.iml
+*.iws
+*.ipr
+# CLion 构建目录（cmake-build-* 开头的所有目录）
+cmake-build-*/
+
+# ===================== CMake 相关 =====================
+# CMake 编译生成的核心文件
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+# 手动创建的 build 目录（若有）
+build/
+_build/
+out/
+
+# ===================== 系统/通用临时文件 =====================
+# 编译生成的可执行文件/库文件
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+# 日志/缓存文件
+*.log
+*.swp
+*.swo
+.DS_Store  # Mac 系统文件
+Thumbs.db  # Windows 系统文件
+# 临时文件目录
+tmp/
+temp/
+
+# ===================== 自定义忽略（可选） =====================
+# 若有本地测试数据、配置文件等，可在此添加
+# test_data/
+# config/local.conf
