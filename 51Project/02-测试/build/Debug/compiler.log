@@ -1,0 +1,14 @@
+>>> cc
+
+
+
+>>> ld
+
+
+LX51 LINKER/LOCATER V4.66.100.0 - SN: K1DZC-HWNA8C
+COPYRIGHT Copyright (C) 1995-2021, Arm Limited or its Affiliates. All rights reserved.
+@d:\51Project\02-≤‚ ‘\build\Debug\02-≤‚ ‘.lnp .\build\Debug\.obj\src\main.o TO .\build\Debug\02-≤‚ ‘
+PRINT(.\build\Debug\02-≤‚ ‘.map) REMOVEUNUSED
+
+Program Size: data=13.0 xdata=0 const=0 code=116
+LX51 RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)

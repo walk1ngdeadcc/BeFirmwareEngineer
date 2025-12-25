@@ -1,0 +1,2 @@
+.\build\Debug\.obj\src\main.o TO .\build\Debug\03-流水灯
+PRINT(.\build\Debug\03-流水灯.map) REMOVEUNUSED

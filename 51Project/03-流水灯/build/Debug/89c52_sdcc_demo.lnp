@@ -1,0 +1,2 @@
+.\build\Debug\.obj\src\main.o TO .\build\Debug\89c52_sdcc_demo
+PRINT(.\build\Debug\89c52_sdcc_demo.map) REMOVEUNUSED
